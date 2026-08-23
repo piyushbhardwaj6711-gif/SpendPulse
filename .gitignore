@@ -1,7 +1,6 @@
 # Uncomment the two lines below if you'd rather NOT commit data/model
 # artifacts and instead regenerate them on deploy via `python src/train.py`.
-# data/*.csv
-# models/*.pkl
+
 
 venv/
 __pycache__/
